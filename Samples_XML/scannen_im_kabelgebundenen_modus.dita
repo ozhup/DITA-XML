@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="scannen_im_kabelgebundenen_modus">
+    <title>Scannen im kabelgebundenen Modus</title>
+    <shortdesc>Auf dieser Seite können Sie die Beschreibung finden, wie man einen Scanner im
+        kabelgebundenen Modus verwenden kann. </shortdesc>
+    <taskbody>
+        <context>
+            <p><i>Voraussetzungen</i>: Stellen Sie sicher, dass Sie die Grundeinstellungen bereits
+                vorgenommen haben.</p>
+            <p>Um einen Scanner im kabelgebundenen Modus zu verwenden, führen Sie die folgenden
+                Schritte aus.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Scannen Sie den Barcode für den kabelgebundenen Modus. Wenn das orangefarbene
+                    Licht am USB-Empfänger blinkt, ist der Scanner bereit zur Verbindung.</cmd>
+            </step>
+            <step>
+                <cmd>Verbinden Sie den Scanner über das USB-Kabel mit Ihrem Gerät (z. B. einem
+                    Computer oder Tablet)</cmd>
+            </step>
+            <step>
+                <cmd>Ein blaues Licht beginnt zu blinken – das bedeutet, dass der Scanner
+                    erfolgreich mit dem Gerät synchronisiert wurde.</cmd>
+            </step>
+            <step>
+                <cmd>Scannen Sie den ausgewählten Barcode, indem Sie den USB-Empfänger in einem
+                    Abstand von etwa 5 cm zum Code bewegen.</cmd>
+            </step>
+        </steps>
+        <result id="result_pd1_rgb_cfc">
+            <p>Die gescannten Daten werden auf dem Bildschirm Ihres Geräts angezeigt. Klicken Sie
+                auf einen Eintrag, um detaillierte Informationen anzuzeigen.</p>
+        </result>
+    </taskbody>
+</task>

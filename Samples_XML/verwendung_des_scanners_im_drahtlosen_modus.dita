@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="verwendung_des_scanners_im_drahtlosen_modus">
+    <title>Verwendung des Scanners im drahtlosen Modus</title>
+    <shortdesc>Auf dieser Seite finden Sie Informationen zur Verwendung des Scanners im drahtlosen
+        Modus.</shortdesc>
+    <taskbody>
+        <context>
+            <p><i>Voraussetzungen:</i> Stellen Sie sicher, dass Sie die Grundeinstellungen bereits
+                durchgeführt haben. </p>
+            <p>Um den Scanner im drahtlosen Modus zu verwenden, führen Sie die folgenden Schritte
+                aus:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Scannen Sie den Barcode für den drahtlosen Modus. Wenn das grüne Licht am
+                    USB-Empfänger blinkt, ist der Scanner bereit zur Verbindung.</cmd>
+            </step>
+            <step>
+                <cmd>Aktivieren Sie den Bluetooth-Modus auf dem Gerät, mit dem Sie den Scanner
+                    verbinden möchten. Dies kann ein Computer oder ein Tablet sein.</cmd>
+            </step>
+            <step>
+                <cmd>Stecken Sie den USB-Empfänger in den USB-Port Ihres Geräts.</cmd>
+            </step>
+            <step>
+                <cmd>Ein blaues Licht beginnt zu blinken – das bedeutet, dass der Scanner
+                    erfolgreich mit dem Gerät synchronisiert wurde.</cmd>
+            </step>
+            <step>
+                <cmd>Scannen Sie den ausgewählten Barcode, indem Sie den USB-Empfänger in einem
+                    Abstand von etwa 5 cm zum Code bewegen.</cmd>
+            </step>
+        </steps>
+        <result id="result_s32_wft_z2c">
+            <p>Die gescannten Ergebnisse können Sie auf dem Bildschirm Ihres Geräts sehen. Klicken
+                Sie auf einen Eintrag, um detaillierte Informationen anzuzeigen.</p>
+        </result>
+    </taskbody>
+</task>

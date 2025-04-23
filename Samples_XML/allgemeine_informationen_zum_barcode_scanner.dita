@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="allgemeine_informationen_zum_barcode_scanner">
+    <title>Allgemeine Informationen zum Barcode-Scanner</title>
+    <shortdesc>Auf dieser Seite können Sie sowohl Informationen über die Funktionen des
+        Barcode-Scanners als auch über die Anwendungsbereiche und die Zielgruppe finden.</shortdesc>
+    <conbody>
+        <p>Ein Barcode-Scanner ist ein Gerät, das entwickelt wurde, um Barcodes zu lesen und in
+            digitale Daten umzuwandeln. Diese Daten werden anschließend an ein verbundenes Gerät,
+            wie z. B. einen Computer, übermittelt.</p>
+        <p>Der Barcode-Scanner bietet folgende Funktionen:</p>
+        <ul id="ul_zlh_cjb_cfc">
+            <li>Barcode-Erkennung: Unterstützt verschiedene Barcode-Formate (z. B. 1D, 2D).</li>
+            <li> Drahtlose und kabelgebundene Verbindung: Flexibilität bei der Anwendung.</li>
+            <li>Konfigurierbare Einstellungen: Sprache, Ton, Verbindungstyp etc.</li>
+        </ul>
+        <p>Den Barcode-Scanner können Sie in den folgenden Einsatzbereichen verwenden:</p>
+        <ul id="ul_prx_hjb_cfc">
+            <li>Lagerverwaltung</li>
+        </ul>
+        <ul id="ul_uyw_3jb_cfc">
+            <li>Einzelhandel</li>
+        </ul>
+        <ul id="ul_urf_jjb_cfc">
+            <li>Logistik und Versand</li>
+        </ul>
+        <p>Zielpublikum (Audience): Erstbenutzer:innen und Mitarbeiter:innen, die regelmäßig mit
+            Barcodes arbeiten.</p>
+    </conbody>
+</concept>

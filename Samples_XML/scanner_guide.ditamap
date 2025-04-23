@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Scanner_Guide</title>
+    <topichead navtitle="Erste Einstellungen">
+        <topicref href="allgemeine_informationen_zum_barcode_scanner.dita"/>
+        <topicref href="erste_einstellungen.dita"/>
+    </topichead>
+    <topichead navtitle="Scannen im drahtlosen Modus">
+        <topicref href="verwendung_des_scanners_im_drahtlosen_modus.dita"/>
+    </topichead>
+    <topichead navtitle="Scannen im kabelgebundenen Modus">
+        <topicref href="scannen_im_kabelgebundenen_modus.dita"/>
+    </topichead>
+</map>

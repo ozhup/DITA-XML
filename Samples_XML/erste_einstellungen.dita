@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="erste_einstellungen">
+    <title>Erste Einstellungen</title>
+    <shortdesc>Auf dieser Seite finden Sie Informationen zur erstmaligen Einrichtung des
+        Scanners.</shortdesc>
+    <taskbody>
+        <context>Um den Scanner erfolgreich einzurichten, führen Sie die folgenden
+            Grundeinstellungen durch: </context>
+        <steps>
+            <step>
+                <cmd>Halten Sie die Einschalttaste 5 Sekunden lang gedrückt, um den Scanner
+                    einzuschalten. Sobald das LED-Licht blinkt, können Sie mit der Einrichtung
+                    beginnen.</cmd>
+            </step>
+            <step>
+                <cmd>Scannen Sie einen Test-Barcode, um die Einrichtung zu überprüfen. Sie können
+                    einen Test-Barcode scannen, indem Sie den USB-Empfänger in einem Abstand von
+                    etwa 5 cm zum Code bewegen. Ein akustisches Signal bestätigt die korrekte
+                    Funktionsweise. Falls Sie kein Signal hören, wechseln Sie zum Abschnitt
+                    Problemlösung.</cmd>
+            </step>
+            <step>
+                <cmd>Scannen Sie den bevorzugten Barcode, um die Sprache auszuwählen.</cmd>
+            </step>
+            <step>
+                <cmd>Scannen Sie diesen Barcode, wenn Sie im drahtlosen Modus arbeiten möchten.
+                        <image placement="break" href="Barcode.png" scale="50"
+                        id="image_olp_wxs_z2c"/></cmd>
+            </step>
+            <step>
+                <cmd>Scannen Sie diesen Barcode, wenn Sie im kabelgebundenen Modus arbeiten
+                        möchten.<image placement="break" href="Barcode.png" scale="50"
+                        id="image_bzp_3ys_z2c"/></cmd>
+            </step>
+        </steps>
+        <result id="result_hgn_2xs_z2c">Der Scanner ist betriebsbereit und arbeitet im bevorzugten
+            Modus. Folgen Sie den weiteren Anweisungen zur Nutzung.</result>
+    </taskbody>
+</task>
