@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="allgemeine_informationen_zum_barcode_scanner"
+               path="allgemeine_informationen_zum_barcode_scanner.html"/>
+   <appContext helpID="erste_einstellungen" path="erste_einstellungen.html"/>
+   <appContext helpID="verwendung_des_scanners_im_drahtlosen_modus"
+               path="verwendung_des_scanners_im_drahtlosen_modus.html"/>
+   <appContext helpID="scannen_im_kabelgebundenen_modus"
+               path="scannen_im_kabelgebundenen_modus.html"/>
+</map>
